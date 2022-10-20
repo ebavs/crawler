@@ -1,0 +1,27 @@
+{
+  "name": "ebavs-crawler",
+  "version": "0.1.0",
+  "description": "get list of urls from a web",
+  "main": "main.js",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/fromcouch/crawler.git"
+  },
+  "author": {
+		"name": "Victor ebavs/",
+		"email": "victor@ebavs.net",
+		"url": "https://ebavs.net/"
+	},
+  "scripts": {
+    "postinstall": "npm run linkmodules",
+    "linkmodules": "node ../../dev/scripts/symlink-modules.js"
+  },
+  "keywords": [],
+  "license": "UNLICENSED",
+  "browserslist": [
+    "last 1 electron version"
+  ],
+  "dependencies": {
+    "node-fetch": "^2.6.7"
+  }
+}
