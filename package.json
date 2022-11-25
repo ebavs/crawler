@@ -1,6 +1,6 @@
 {
   "name": "ebavs-crawler",
-  "version": "0.0.1-alpha",
+  "version": "0.0.2-alpha",
   "description": "get list of urls from a web",
   "main": "main.js",
   "repository": {
@@ -22,6 +22,6 @@
     "last 1 electron version"
   ],
   "dependencies": {
-    "node-fetch": "^2.6.7"
+    "node-fetch": "^3.2.10"
   }
 }
