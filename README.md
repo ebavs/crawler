@@ -6,9 +6,9 @@ The audit application feature allows the crawler to analyze and evaluate the col
 
 ## Download
 
-Mac version: [Download Here](https://github.com/fromcouch/crawler/releases/download/v0.0.2-alpha/Ebavs-Crawler-0.0.2-alpha.dmg) // not tested on m1 or m2. Only intel test
+Mac version: [Download Here](https://github.com/fromcouch/crawler/releases/download/v0.0.3-alpha/Ebavs-Crawler-0.0.3-alpha.dmg) // not tested on m1 or m2. Only intel test
 
-Windows version: [Download Here](https://github.com/fromcouch/crawler/releases/download/v0.0.2-alpha/Ebavs-Crawler-Setup-0.0.2-alpha.exe)
+Windows version: [Download Here](https://github.com/fromcouch/crawler/releases/download/v0.0.3-alpha/Ebavs-Crawler-Setup-0.0.3-alpha.exe)
 
 Linux Version: __Soon__
 
